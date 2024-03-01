@@ -1,0 +1,1 @@
+A Frontend Application built with the help of HTML,CSS and Javascript. We have Followed Standard Coding Practices to Create Good Performing and Responsive Application. A comment section is added to this application with the help of JS. 
